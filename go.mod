@@ -1,4 +1,4 @@
-module github.com/DataDog/datadog-lambda-go
+module github.com/ypwu1/datadog-lambda-go
 
 go 1.12
 
